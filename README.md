@@ -15,7 +15,7 @@ The installer is currently unsigned. Microsoft Defender SmartScreen may display 
 For additional assurance, download the matching `.sha256` file and compare it with:
 
 ```powershell
-Get-FileHash .\Masarat-Operations-0.1.0-x64-setup.exe -Algorithm SHA256
+Get-FileHash .\Masarat-Operations-0.1.2-x64-setup.exe -Algorithm SHA256
 ```
 
 Source code is maintained separately in a private repository. This public repository contains release downloads and end-user instructions only.
